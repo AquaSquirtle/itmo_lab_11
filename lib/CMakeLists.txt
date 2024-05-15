@@ -1,0 +1,4 @@
+add_subdirectory(Indexer)
+add_subdirectory(InvertedIndex)
+add_subdirectory(Searcher)
+add_subdirectory(Information)
