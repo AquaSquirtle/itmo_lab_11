@@ -23,6 +23,7 @@ target_link_libraries(
 )
 
 target_include_directories(ttest PUBLIC ${PROJECT_SOURCE_DIR})
+target_link_libraries(ttest table InvertedIndex Searcher)
 
 include(GoogleTest)
 

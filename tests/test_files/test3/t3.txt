@@ -1,0 +1,4 @@
+cats
+BEARS
+DOGS
+LIONs

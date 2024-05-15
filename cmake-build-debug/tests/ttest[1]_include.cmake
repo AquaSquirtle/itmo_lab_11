@@ -1,0 +1,5 @@
+if(EXISTS "C:/Users/krasn/Desktop/OP/lab_11/labwork11-squirtleKKS/cmake-build-debug/tests/ttest[1]_tests.cmake")
+  include("C:/Users/krasn/Desktop/OP/lab_11/labwork11-squirtleKKS/cmake-build-debug/tests/ttest[1]_tests.cmake")
+else()
+  add_test(ttest_NOT_BUILT ttest_NOT_BUILT)
+endif()

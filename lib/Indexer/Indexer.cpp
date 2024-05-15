@@ -10,7 +10,7 @@ void Indexer::Parse(const std::string& dir_path) {
             cur_line = 1;
             words_amount = 0;
             ParseFile(path.path());
-            files_file << cur_file << ' ' << words_amount << ' ' << path.path() << '\n';
+            files_file << cur_file << ' ' << words_amount << ' ' << path.path().string() << '\n';
             words_in_documents[cur_file] = words_amount;
             ++cur_file;
         }

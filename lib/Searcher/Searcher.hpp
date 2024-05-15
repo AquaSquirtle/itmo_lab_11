@@ -1,7 +1,7 @@
 #pragma once
 #include "iostream"
 #include "vector"
-#include "InvertedIndex.hpp"
+#include "lib/InvertedIndex/InvertedIndex.hpp"
 #include "stack"
 
 class Searcher {

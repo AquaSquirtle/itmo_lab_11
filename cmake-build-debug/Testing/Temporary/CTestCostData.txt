@@ -1,0 +1,11 @@
+SearcherTest.BaseTest 3 0.00328417
+SearcherTest.BracketsTest 3 0.00264183
+SearcherTest.HardQueryTest 0 0
+SearcherTest.SingleWordQueryTest 2 0.0039719
+SearcherTest.ComplexQueryTest 2 0.0048107
+SearcherTest.ComplexQueryWithMultipleOperatorsTest 2 0.00511435
+SearcherTest.ComplexQueryWithNestedParenthesesTest 2 0.0058773
+SearcherTest.ComplexQueryWithMultipleWordsTest 2 0.0042932
+SearcherTest.ComplexQueryWithMultipleOccurrencesTest 2 0.00498175
+SearcherTest.ComplexQueryWithPartialMatchesTest 2 0.0037516
+---
