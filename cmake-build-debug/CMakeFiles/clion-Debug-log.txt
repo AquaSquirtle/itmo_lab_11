@@ -1,4 +1,0 @@
-C:\Users\krasn\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/krasn/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe -G Ninja -S C:\Users\krasn\Desktop\OP\lab_11\labwork11-squirtleKKS -B C:\Users\krasn\Desktop\OP\lab_11\labwork11-squirtleKKS\cmake-build-debug
--- Configuring done (0.7s)
--- Generating done (0.1s)
--- Build files have been written to: C:/Users/krasn/Desktop/OP/lab_11/labwork11-squirtleKKS/cmake-build-debug

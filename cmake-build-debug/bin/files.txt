@@ -1,5 +1,0 @@
-0 20 C:\Users\krasn\Desktop\OP\lab_11\labwork11-squirtleKKS\tests\test_files\test1\t1.txt
-1 7 C:\Users\krasn\Desktop\OP\lab_11\labwork11-squirtleKKS\tests\test_files\test1\t2.txt
-2 1 C:\Users\krasn\Desktop\OP\lab_11\labwork11-squirtleKKS\tests\test_files\test1\t3.txt
-3 1 C:\Users\krasn\Desktop\OP\lab_11\labwork11-squirtleKKS\tests\test_files\test1\t4.txt
-4 3 C:\Users\krasn\Desktop\OP\lab_11\labwork11-squirtleKKS\tests\test_files\test1\t5.txt
